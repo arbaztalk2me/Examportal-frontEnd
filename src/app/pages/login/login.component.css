@@ -1,0 +1,13 @@
+.img-parent{
+    height: 70px;
+    width: 100px;
+}
+
+.img-parent img{
+    height: 100%;
+    width: 100%;
+}
+
+.full-width{
+    width: 100%;
+}
